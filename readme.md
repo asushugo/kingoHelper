@@ -1,10 +1,10 @@
-�����������½ģ��
+青果教务网登陆模拟
 =======================================
-����׼�������εģ���������ѧУ����ѡ�ο���ʱ�䣬����ʱ�䶼�޷����ԣ��ʶ�ֻ����ģ���½
-�÷���
+本来准备做抢课的，但是我们学校除了选课开放时间，其余时间都无法调试，故而只做了模拟登陆
+用法：
 ---------------------------------------
-a=opener()
-b=a.start()
-Ȼ���ͬĿ¼�µ�yzm.jpg�ļ�
-a.SetData(user='your stuID',pwd='your pwd',validcode='��֤��')
-a.login()
+a=opener()<br/>
+b=a.start()<br/>
+然后打开同目录下的yzm.jpg文件<br/>
+a.SetData(user='your stuID',pwd='your pwd',validcode='验证码')<br/>
+a.login()<br/>
