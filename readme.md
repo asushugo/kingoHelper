@@ -1,10 +1,5 @@
 青果教务网登陆模拟
 =======================================
-本来准备做抢课的，但是我们学校除了选课开放时间，其余时间都无法调试，故而只做了模拟登陆
-用法：
----------------------------------------
-a=opener()<br/>
-b=a.start()<br/>
-然后打开同目录下的yzm.jpg文件<br/>
-a.SetData(user='your stuID',pwd='your pwd',validcode='验证码')<br/>
-a.login()<br/>
+目前已实现预选功能，可以有效避免Service Unavailable</br>南林的同学可以直接 </br><code>python 青果教务系统选课助手.py </code></br>根据提示输入</br>或者直接使用dist文件夹下面的exe文件
+
+
