@@ -1,5 +1,5 @@
 青果教务网登陆模拟
 =======================================
-目前已实现预选功能，可以有效避免Service Unavailable</br>南林的同学可以直接 </br><code>python 青果教务系统选课助手.py </code></br>根据提示输入</br>或者直接使用dist文件夹下面的exe文件
+目前已实现预选功能，可以有效避免Service Unavailable</br>南林的同学可以直接 </br><code>python 青果教务系统选课助手.py </code></br>根据提示输入</br>或者直接使用bin文件夹下面的exe文件
 
 
