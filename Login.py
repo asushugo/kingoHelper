@@ -155,6 +155,7 @@ class Login:
         if re.search(u"登录失败", txt):
             return False,"请检查用户名,密码及验证码是否错误"
         elif re.search(u'正在加载权限', txt):
+            return True,response
         else:
             return False,response
 
